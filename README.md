@@ -1,2 +1,8 @@
-# quanttide-tutorial-of-academic-writing
-量潮学术写作教程
+# 量潮学术写作教程
+
+## 教学大纲
+
+### 文献检索
+
+1. 中英文论文检索
+2. 中文专利检索
