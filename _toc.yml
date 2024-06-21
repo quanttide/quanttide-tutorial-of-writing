@@ -1,0 +1,15 @@
+format: jb-book
+parts:
+- caption: 快速入门
+  chapters:
+    - file: intro/README.md
+      sections:
+        - file: intro/categories.md
+- caption: 类别
+  chapters:
+    - file: categories/academic/README.md
+      sections:
+      - file: categories/academic/intro/README.md
+        sections:
+        - file: 
+    - file: categories/technical/README.md    
