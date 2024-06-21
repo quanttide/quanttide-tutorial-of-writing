@@ -1,4 +1,5 @@
 format: jb-book
+root: index.md
 parts:
 - caption: 快速入门
   chapters:
@@ -11,5 +12,6 @@ parts:
       sections:
       - file: categories/academic/intro/README.md
         sections:
-        - file: 
+          - file: categories/academic/intro/motivation.md
+          - file: categories/academic/intro/guidance.md
     - file: categories/technical/README.md    
